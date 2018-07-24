@@ -414,12 +414,13 @@ border: 1px solid green;
 
 
 @media only screen and (max-width:960px){
-  .whitebox{ margin-top: 4rem; height: 6rem; margin-right: 2rem; width: 100%; justify-content: center;}
-  .innerbox{font-size: 1.8rem; width: 100%;}
+  .whitebox{width: 50%; height: 6rem; margin: auto; margin-right:9rem; margin-top: 5rem;}
+  .innerbox{font-size: 1.8rem; width: 100%;padding-left: 1rem;}
+  .innerbox p{width: 100%; font-size: 1.4rem; margin: auto;}
 .secondholder, .thirdholder,.fourthholder, .orgainzer2, .orgainzer3, .orgainzer{width: 100%;}
 .topbar{margin-top: 0rem; width: 100%;}
-.navbar, .middlesection, .titlez, .placeholder{width: 100%; margin: auto;}
-.firstholder{background-position:135% ; background-repeat:repeat;
+.navbar, .middlesection, .titlez, .placeholder{width: 100%; height: 100% margin: auto;}
+.firstholder{background-position:100% ; background-repeat:no-repeat;;
 background-size: cover; width: 100%; height: 22rem; width: 100%}
 .orgainzer2{justify-content: space-around;}
 .boxxy1{margin-left: 4rem;}
